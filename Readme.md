@@ -44,13 +44,8 @@ The project is divided into two main tasks:
 ## Repository Structure
 
 - `notebook.ipynb`: Jupyter notebook containing all implementations, evaluations, and discussions
-- `project2-task.svg`: Illustration of the project tasks
 
-## How to Use
 
-1. Clone this repository
-2. Ensure you have the required dependencies installed (list them here)
-3. Run the Jupyter notebook to reproduce the results and analysis
 
 
 
